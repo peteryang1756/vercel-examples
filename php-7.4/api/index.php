@@ -1,7 +1,7 @@
 <?php
 $config = array(
     'url' => 'https://help.ssangyongsports.eu.org/help/api/tickets.json',
-    'key' => '7A708D9E06A3D085C2BA16A48513F4F1'
+    'key' => '90CD0C0AC3B029EACF821F5A3E409D3B'
 );
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
